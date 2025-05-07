@@ -21,11 +21,49 @@ FIP Freifahrtsschein: ✅ \
 FIP Freifahrtsschein Angehörige: ✅ \
 FIP 50 Tickets: ✅
 
-FIP Freifahrtscheine und FIP 50 Tickets sind auf Verbindungen der SNCB gültig. Bei grenzüberschreitenden Fahrten muss entweder ein durchgängiges FIP 50 Ticket oder FIP Freifahrtscheine beider Länder vorhanden sein.
+FIP Freifahrtscheine und FIP 50 Tickets sind auf allen Strecken gültig. Derzeit umfasst dies folgende Betreiber:
+- Avanti West Coast
+- C2c
+- Caledonian Sleeper
+- Chiltern Railways
+- CrossCountry
+- East Midlands Railway
+- Elizabeth Line
+- Gatwick Express
+- Grand Central
+- Great Northern
+- Greater Anglia
+- Great Western Railway
+- Heathrow Express
+- Hull Trains
+- London North Eastern Railway
+- London Northwestern Railway (Marke von West Midlands Trains)
+- London Overground
+- LUMO
+- Merseyrail
+- Northern
+- Island Line (Isle of Wight)
+- Scotrail
+- South Western Railway
+- Southeastern Railway
+- Southern
+- Stansted Express
+- Thameslink
+- TransPennine Express
+- Transport for Wales
+- West Midlands Railway (Marke von West Midlands Trains)
+
 
 ## Zugkategorien und Reservierungen
 
-Innerhalb Belgiens ist bei der SNCB keine Reservierung erforderlich und in vielen Zügen auch nicht möglich. Beim grenzüberschreitenden ICE nach Deutschland ist eine Reservierung möglich und war beispielsweise im Sommer 2024 auch verpflichtend (nur bei grenzüberschreitenden Reisen).
+Die Fahrplandaten zu Reservierungen sind oft falsch.
+Reservierungspflicht gilt nur in den Nachtzügen (Caledonian Sleeper und Night Riviera).
+Reservierungen sind bei folgenden Bahngesellschaften möglich:
+- Avanti West Coast
+- CrossCountry
+- East Midlands Railway
+- Grand Central
+- Great Western Railway
 
 {{< expander "InterCity Express (ICE)" category >}}
 **Beschreibung:** \
